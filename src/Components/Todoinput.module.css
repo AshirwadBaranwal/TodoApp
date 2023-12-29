@@ -1,0 +1,22 @@
+.inputarea{
+  background-color: white;
+  padding: 5px;
+  border-radius: 10px;
+  width: 98%;
+  margin: auto;
+}
+
+.inputbox{
+    margin-top: 3px;
+    border: 2px solid #88AB8E ;
+    outline: none;
+    border-radius: 5px;
+    width: 100%;
+    padding: 5px;
+    
+}
+
+.addbtn{
+  float: right;
+  width: 72px;
+}

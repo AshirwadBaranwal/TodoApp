@@ -1,0 +1,20 @@
+.itembox {
+  padding: 5px;
+  border-radius: 10px;
+  width: 98%;
+  margin: auto;
+}
+
+.para{
+  align-self: center;
+}
+
+.para {
+  height: fit-content;
+}
+
+.mybtn {
+  height: 40px;
+  float: right;
+  
+}
